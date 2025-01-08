@@ -5,4 +5,4 @@ E seja bem-vindo(a) ao meu perfil do Github!
 
 
 ## 🧭 Sobre mim
-Sou um estudante e admirador de programação, atualmente cursando Engenharia de Software na UNIFIL. Aspirando a me tornar um dev back-end, busco extender meus conhecimentos ao máximo possivel, visando crescer a cada dia como pessoa e programador.
+Sou um estudante e admirador de programação, atualmente cursando Engenharia de Software na UNIFIL. Aspirando a me tornar um dev com conhecimentos em diversas áreas, busco extender meus conhecimentos ao máximo possivel, visando crescer a cada dia como pessoa e programador.
